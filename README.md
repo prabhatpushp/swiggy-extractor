@@ -17,7 +17,7 @@ This project provides functionality to extract product data from Swiggy's Instam
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/swiggy-extractor
    cd swiggy-extractor
    ```
 2. Set up a virtual environment (optional but recommended):
